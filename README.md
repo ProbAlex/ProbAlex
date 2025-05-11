@@ -5,6 +5,24 @@
 </p>
 
 ---
+<p align="center">
+  <strong>👨‍💻 Currently Open to Work</strong><br/>
+  📍 New&nbsp;York&nbsp;City &nbsp;•&nbsp; 💼 On‑site / Remote
+</p>
+
+<p align="center">
+  <a href="https://alexalex.net/">
+    <img alt="Portfolio" src="https://img.shields.io/badge/🌐%20Portfolio-1abc9c?style=for-the-badge">
+  </a>
+  <a href="mailto:alex.dial@outlook.com">
+    <img alt="Email" src="https://img.shields.io/badge/✉️%20Email-9b59b6?style=for-the-badge">
+  </a>
+  <a href="https://www.linkedin.com/in/1alexanderdial">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/🔗%20LinkedIn-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+</p>
+
+---
 
 <h3 align="center">📊 GitHub Stats:</h3>
 <p align="center">
