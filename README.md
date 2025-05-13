@@ -29,5 +29,5 @@
   <img src="https://github-readme-stats-chi-two-83.vercel.app/api/top-langs?username=ProbAlex&show_icons=true&locale=en&layout=compact&theme=dark" alt="Top Languages" />
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ProbAlex&theme=dark" alt="GitHub Streak" />
+  <img src="https://streaks.alexalex.net/?user=ProbAlex&theme=dark" alt="GitHub Streak" />
 </p>
